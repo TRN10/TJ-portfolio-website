@@ -2,6 +2,7 @@
     box-sizing: border-box;
     padding: 0;
     margin: 20;
+    font-kerning: normal;
 }
 
 nav, ul, h2 {
@@ -14,8 +15,8 @@ nav, ul, h2 {
 }
 
 li {
-
-    margin-left: 50px;
+   
+    margin-left: 150px;
     list-style: none;
     font-size:large;
 }
@@ -49,6 +50,7 @@ footer {
 
 h2 {
     font-size: xx-large;
+    
 }
 
 .portfolio {
