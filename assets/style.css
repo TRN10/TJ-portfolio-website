@@ -1,22 +1,20 @@
-* {
-    box-sizing: border-box;
+nav, ul {
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+     font-family: halcom, sans-serif;
+     font-weight: 700;
+     font-style: normal;
 }
 
-nav, ul {
-    height: 100px;
-    background-color: rgb(9, 100, 106);
-    color: white;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    font-family: Arial, Helvetica, sans-serif;
-}   
-
 li {
-    margin-right: 25px;
+    margin-left: 25px;
     list-style: none;
 }
 
 footer {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: halcom, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
 }
