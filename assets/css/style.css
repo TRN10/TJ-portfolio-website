@@ -1,6 +1,6 @@
-nav, ul {
+nav, ul, h2 {
      display: flex;
-     justify-content: space-between;
+     justify-content: left;
      align-items: center;
      font-family: halcom, sans-serif;
      font-weight: 700;
@@ -8,15 +8,22 @@ nav, ul {
 }
 
 li {
-    margin-left: 25px;
+
+    margin-left: 125px;
     list-style: none;
+    font-size:large;
 }
 
-footer {
-    font-family: halcom, sans-serif;
-    font-weight: 500;
-    font-style: normal;
+
+footer {  
+     display: flex;
+     justify-content: left;
+     align-items: center;
+     font-family: halcom, sans-serif;
+     font-weight: 700;
+    
 }
+
 
 .hero {
     font-family: halcom, sans-serif ;
@@ -40,3 +47,18 @@ footer {
 h2 {
     font-size: xx-large;
 }
+
+.portfolio {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 10px;
+}
+
+.project {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 20px;
+}
+
