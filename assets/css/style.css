@@ -17,11 +17,4 @@ footer {
     font-weight: 500;
     font-style: normal;
 }
-
-.hero {
-    font-family: halcom, sans-serif ;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
 }
-
