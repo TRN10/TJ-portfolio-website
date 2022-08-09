@@ -20,5 +20,23 @@ footer {
 
 .hero {
     font-family: halcom, sans-serif ;
-   
+    background-image: ;
+}
+
+.portfolio {
+    font-family: halcom, sans-serif;
+}
+
+.hero {
+    height: 700px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../images/rainbow.jpg");
+    background-size: cover;
+    background-position: center;
+
+}
+
+h2 {
+    font-size: xx-large;
 }
