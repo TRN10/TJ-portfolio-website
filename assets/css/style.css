@@ -9,14 +9,14 @@ nav, ul, h2 {
      display: flex;
      justify-content: left;
      align-items: center;
-     font-family: halcom, sans-serif;
-     font-weight: 700;
+     font-family: prometo, sans-serif;
+     font-weight: 500;
      font-style: normal;
 }
 
 li {
    
-    margin-left: 150px;
+    margin-right: 50px;
     list-style: none;
     font-size:large;
 }
@@ -26,7 +26,7 @@ footer {
      display: flex;
      justify-content: left;
      align-items: center;
-     font-family: halcom, sans-serif;
+     font-family: prometo, sans-serif;
      font-weight: 700;
     
 }
@@ -58,7 +58,9 @@ h2 {
     justify-content: space-between;
     flex-wrap: wrap;
     margin: 30px;
-    font-family: halcom, sans-serif;
+    font-family: prometo, sans-serif;
+    font-weight: 500;
+   
 }
 
 .project {
