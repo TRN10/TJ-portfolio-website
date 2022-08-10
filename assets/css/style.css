@@ -21,6 +21,14 @@ li:hover {
     
   }
 
+  footer h3:hover {
+    background-color: #9248e1;
+    opacity: 50%;
+    color: white;
+
+  }
+
+
 h2 {
     font-family: prometo, sans-serif;
     font-weight: 500;
