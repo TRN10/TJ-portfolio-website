@@ -18,7 +18,18 @@ h2 {
     padding-top: 50px;
 }
 
+.alpha h4 {
+    margin-top: 10px;
+}
 
+h4 {
+    font-weight: 100;
+}
+
+.alpha {
+    color: white;
+    padding: 20px;
+}
 
 
 
@@ -86,7 +97,7 @@ footer {
 }
 
 .project {
-    display: flex;
+    display: flex;d
     justify-content: space-between;
     flex-wrap: wrap;
     margin: 20px;
