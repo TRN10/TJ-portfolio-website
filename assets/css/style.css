@@ -13,6 +13,7 @@ p {
     padding-right: 10px;
     padding-bottom: 10px;
 
+
 } 
 
 li:hover {
@@ -96,6 +97,7 @@ footer {
     padding-left: 20px;
     padding-right: 20px;
     font-family: soleto, Arial, Helvetica, sans-serif;
+    overflow: scroll;
 
 }
 
