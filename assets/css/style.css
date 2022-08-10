@@ -6,6 +6,7 @@
 }
 
 p {
+    flex-wrap: wrap;
     background-color: rgba(75, 70, 70, 0.616);
     padding-left: 10px;
     padding-top: 10px;
@@ -35,6 +36,7 @@ h2 {
     font-size: 80px;
     justify-content: left;
     padding-top: 50px;
+    padding-left: 20px;
 }
 
 .alpha h4 {
@@ -75,7 +77,7 @@ footer {
      justify-content: space-evenly;
      align-items: center;
      font-family: prometo, sans-serif;
-     font-weight: 300;
+     font-weight: lighter;
     
 }
 
@@ -124,12 +126,3 @@ footer {
     font-weight: 500;
    
 }
-
-/*
-.project {
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
-    margin: 20px;
-}
-*/
