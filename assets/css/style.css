@@ -23,44 +23,49 @@ p {
     background-color: #9248e1;
     opacity: 80%;
     color: #330d5d;
+    cursor: pointer;
 }
 
 .example2:hover {
     background-color: #9248e1;
     opacity: 50%;
     color: white;
+    cursor: pointer;
 }
 
 .example3:hover {
     background-color: #9248e1;
     opacity: 50%;
     color: white;
+    cursor: pointer;
 }
 
 .example4:hover {
     background-color: #9248e1;
     opacity: 50%;
     color: white;
+    cursor: pointer;
 }
 
 .example5:hover {
     background-color: #9248e1;
     opacity: 50%;
     color: white;
+    cursor: pointer;
 }
 
 li:hover {
     background-color: #9248e1;
     opacity: 50%;
     color: white;
-    
+    cursor: pointer;
   }
 
 footer h5:hover {
     background-color: #9248e1;
     opacity: 50%;
     color: white;
-
+    cursor: pointer;
 }
 
 h1 {
