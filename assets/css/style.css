@@ -51,6 +51,16 @@ footer {
 
 }
 
+.alpha {
+    height: 700px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../images/rainbowBlue.jpg");
+    background-size: cover;
+    background-position: center;
+
+}
+
 
 
 .portfolio {
