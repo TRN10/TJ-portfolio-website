@@ -5,15 +5,24 @@
     font-kerning: normal;
 }
 
+p {
+    background-color: rgba(75, 70, 70, 0.616);
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+
+} 
+
 li:hover {
     background-color: #2d9ea2;
-    color: #fff;
+    
   }
 
 h2 {
     font-family: prometo, sans-serif;
-    font-weight: 300;
-    font-size: 70px;
+    font-weight: 500;
+    font-size: 80px;
     justify-content: left;
     padding-top: 50px;
 }
@@ -62,20 +71,22 @@ footer {
 
 
 .hero {
-    height: 700px;
+    height: 400px;
     width: 100%;
     margin-bottom: 25px;
     background-image: url("../images/rainbow.jpg");
     background-size: cover;
     background-position: center;
     color: white;
-    font-family: prometo, sans-serif;
     font-weight: 400;
     padding-top: 50px;
     padding-left: 20px;
     padding-right: 20px;
+    font-family: soleto, Arial, Helvetica, sans-serif;
 
 }
+
+
 
 .alpha {
     height: 700px;
@@ -85,8 +96,9 @@ footer {
     background-size: cover;
     background-position: center;
     font-family: prometo, sans-serif;
-    font-weight: 300;
-    font-size: x-large;
+    font-weight: 400;
+    
+    
 
 }
 
@@ -102,9 +114,11 @@ footer {
    
 }
 
+/*
 .project {
-    display: flex;d
+    display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
     margin: 20px;
 }
+*/
