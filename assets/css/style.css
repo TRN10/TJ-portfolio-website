@@ -20,6 +20,11 @@ p {
 
 } 
 
+.example2 {
+    position: ;
+}
+
+
 .alpha:hover {
     background-color: #9248e1;
     opacity: 80%;
@@ -166,6 +171,7 @@ a { color: inherit;
     margin: 30px;
     font-family: prometo, sans-serif;
     font-weight: 500;
+    padding-top: 20px;
    
 }
 
