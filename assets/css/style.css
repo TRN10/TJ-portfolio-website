@@ -7,7 +7,8 @@
 
 h2 {
     font-family: prometo, sans-serif;
-    font-size: xx-large;
+    font-weight: 300;
+    font-size: 70px;
     justify-content: left;
     padding-top: 50px;
 }
@@ -24,7 +25,7 @@ li {
    
     margin-right: 10px;
     list-style: none;
-    font-size:large;
+    font-size: 30px;
 }
 
 
