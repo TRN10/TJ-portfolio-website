@@ -18,6 +18,10 @@ h2 {
     padding-top: 50px;
 }
 
+
+
+
+
 nav, ul {
      display: flex;
      justify-content: right;
@@ -63,6 +67,9 @@ footer {
     background-image: url("../images/rainbow2.jpg");
     background-size: cover;
     background-position: center;
+    font-family: prometo, sans-serif;
+    font-weight: 300;
+    font-size: x-large;
 
 }
 
@@ -84,4 +91,3 @@ footer {
     flex-wrap: wrap;
     margin: 20px;
 }
-
