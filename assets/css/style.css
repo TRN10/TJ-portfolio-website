@@ -5,10 +5,17 @@
     font-kerning: normal;
 }
 
-nav, ul, h2 {
+h2 {
+    font-family: prometo, sans-serif;
+    font-size: xx-large;
+    justify-content: left;
+    padding-top: 50px;
+}
+
+nav, ul {
      display: flex;
-     justify-content: left;
-     align-items: center;
+     justify-content: right;
+     align-items: right;
      font-family: prometo, sans-serif;
      font-weight: 500;
      font-style: normal;
@@ -16,7 +23,7 @@ nav, ul, h2 {
 
 li {
    
-    margin-right: 50px;
+    margin-right: 10px;
     list-style: none;
     font-size:large;
 }
