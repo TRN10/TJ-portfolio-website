@@ -19,6 +19,36 @@ p {
 
 } 
 
+.alpha:hover {
+    background-color: #9248e1;
+    opacity: 80%;
+    color: #330d5d;
+}
+
+.example2:hover {
+    background-color: #9248e1;
+    opacity: 50%;
+    color: white;
+}
+
+.example3:hover {
+    background-color: #9248e1;
+    opacity: 50%;
+    color: white;
+}
+
+.example4:hover {
+    background-color: #9248e1;
+    opacity: 50%;
+    color: white;
+}
+
+.example5:hover {
+    background-color: #9248e1;
+    opacity: 50%;
+    color: white;
+}
+
 li:hover {
     background-color: #9248e1;
     opacity: 50%;
@@ -134,5 +164,6 @@ footer {
 
 h5 {
 
-font-weight: 100;
+font-weight: 300;
+
 }
