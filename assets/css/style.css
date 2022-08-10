@@ -68,6 +68,12 @@ footer {
     background-image: url("../images/rainbow.jpg");
     background-size: cover;
     background-position: center;
+    color: white;
+    font-family: prometo, sans-serif;
+    font-weight: 400;
+    padding-top: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
 
 }
 
