@@ -5,6 +5,8 @@
     font-kerning: normal;
 }
 
+
+
 p {
     flex-wrap: wrap;
     background-color: rgba(75, 70, 70, 0.616);
@@ -23,15 +25,14 @@ li:hover {
     
   }
 
-  footer h3:hover {
+footer h5:hover {
     background-color: #9248e1;
     opacity: 50%;
     color: white;
 
-  }
+}
 
-
-h2 {
+h1 {
     font-family: prometo, sans-serif;
     font-weight: 500;
     font-size: 80px;
@@ -39,6 +40,7 @@ h2 {
     padding-top: 50px;
     padding-left: 20px;
 }
+
 
 .alpha h4 {
     margin-top: 10px;
@@ -127,4 +129,9 @@ footer {
     font-family: prometo, sans-serif;
     font-weight: 500;
    
+}
+
+h5 {
+
+font-weight: 100;
 }
