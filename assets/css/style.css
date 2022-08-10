@@ -32,10 +32,10 @@ li {
 
 footer {  
      display: flex;
-     justify-content: center;
+     justify-content: space-evenly;
      align-items: center;
      font-family: prometo, sans-serif;
-     font-weight: 700;
+     font-weight: 300;
     
 }
 
